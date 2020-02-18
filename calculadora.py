@@ -1,3 +1,3 @@
-a = 2
-b = 3
+a = int (input ("Digita ai menó"))
+b = int (input ("Digita ai menó de novo"))
 print(f'{a} + {b} = {a + b}')
